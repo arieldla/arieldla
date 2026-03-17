@@ -1,7 +1,7 @@
 # Ariel De Los Angeles — Cloud & Security Engineer
 
 > Building enterprise-grade cloud infrastructure from a homelab.
-> DLA Group Inc | Clifton, NJ
+> DLA Group Inc | 
 
 ---
 
@@ -33,7 +33,7 @@ Terraform modules instead of console clicks.
 
 ## Homelab Infrastructure
 
-**Compute:** Proxmox on i9-12900H, 62GB RAM, 2.4TB NVMe
+**Compute:** Proxmox 
 
 | Component | Details |
 |---|---|
@@ -50,9 +50,9 @@ Terraform modules instead of console clicks.
 - Terraform state in S3, modular repo structure
 
 **Azure (Pay-as-you-go):**
-- Entra ID P2 + Governance, M365 E5
+- M365 E5 + Governance
 - Hybrid identity via Entra Connect delta sync
-- Azure Arc — DC01 onboarded
+- Azure Arc — DC onboarded
 - Custom domains managed via Route53
 
 ---
@@ -87,7 +87,7 @@ Cloud:     AWS  |  Azure
 IaC:       Terraform  |  Ansible (learning)
 CI/CD:     Jenkins  |  GitHub Actions
 Security:  IAM Roles Anywhere  |  Entra ID  |  GuardDuty  |  Trivy
-OS:        Ubuntu  |  Windows Server 2025  |  Kali
+OS:        Ubuntu  |  Windows Server  |  Kali
 Network:   pfSense  |  VLANs  |  Site-to-Site VPN  |  Tailscale
 Storage:   MinIO (S3-compatible)  |  AWS S3
 Auth:      Entra ID P2  |  Azure Arc  |  Self-managed PKI
