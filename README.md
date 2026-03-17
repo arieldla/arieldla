@@ -38,7 +38,7 @@ Terraform modules instead of console clicks.
 | Component | Details |
 |---|---|
 | Hypervisor | Proxmox VE |
-| Windows Server 2025 | DC01 — AD DS, DLAGROUP.local, Azure Arc onboarded |
+| Windows Server | Windows DataCenter— AD DS, DLAGROUP.local, Azure Arc onboarded |
 | Docker VM | Jenkins, Gitea, MinIO, Nginx Proxy Manager, Uptime Kuma |
 | Network | pfSense, VLANs, Site-to-Site VPN (Terraform-managed) |
 | PKI | Self-managed CA |
