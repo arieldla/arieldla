@@ -1,7 +1,7 @@
 # Ariel De Los Angeles — Cloud & Security Engineer
 
 > Building enterprise-grade cloud infrastructure from a homelab.
-> DLA Group Inc | 
+> DLA Group Inc | New Jersey, USA
 
 ---
 
@@ -33,12 +33,12 @@ Terraform modules instead of console clicks.
 
 ## Homelab Infrastructure
 
-**Compute:** Proxmox 
+**Compute:** Proxmox homelab on consumer hardware 
 
 | Component | Details |
 |---|---|
 | Hypervisor | Proxmox VE |
-| Windows Server | Windows DataCenter— AD DS, DLAGROUP.local, Azure Arc onboarded |
+| Windows Server | domain-controller— AD DS, example.local, Azure Arc onboarded |
 | Docker VM | Jenkins, Gitea, MinIO, Nginx Proxy Manager, Uptime Kuma |
 | Network | pfSense, VLANs, Site-to-Site VPN (Terraform-managed) |
 | PKI | Self-managed CA |
