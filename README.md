@@ -21,13 +21,13 @@ Terraform modules instead of console clicks.
 
 | Cert | Status |
 |---|---|
-| AWS Solutions Architect Associate (SAA-C03) | Passed Jan 2026 |
+| AWS Solutions Architect Associate (SAA-C03) | Passed |
 | ISC2 Certified in Cybersecurity (CC) | Passed |
 | CompTIA Security+ | Passed |
-| SC-300 (Microsoft Identity & Access Admin) | In Progress |
-| AZ-104 (Azure Administrator) | In Progress |
-| AWS SCS-C03 (Security Specialty) | Planned |
-| AWS AIP-C01 (AI Practitioner) | Planned |
+| AWS DOP-C02 (DevOps Engineer) | In Progress |
+| AWS AIP-C01 (Generative AI Developer) | Planned |
+| AZ-104 (Azure Administrator) | Planned |
+| SC-300 (Microsoft Identity & Access Admin) | Planned |
 
 ---
 
